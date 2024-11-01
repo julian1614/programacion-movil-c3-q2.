@@ -3,3 +3,6 @@ Ejercico explicativo sobre compras
 - Codigo
 - Imagenes del codigo
 - Ejecucion
+
+Video
+https://youtu.be/iuKnmKYdWjI
